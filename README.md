@@ -67,7 +67,7 @@ print(rag.ask("How many vacation days do new hires get?"))
 
 ## Need it production-ready?
 
-**[GroundGate](LINK_TO_GUMROAD)** is the full kit this was cut from. It adds:
+**[GroundGate](https://shrialok.gumroad.com/l/groundgate)** is the full kit this was cut from. It adds:
 
 - **Claim-by-claim grounding**: every sentence of the answer is checked against its cited source;
   invented numbers are stripped before users see them
@@ -80,6 +80,8 @@ print(rag.ask("How many vacation days do new hires get?"))
 - Cross-encoder / Cohere / LLM rerankers, Anthropic Claude, contextual retrieval, query rewriting
 - FastAPI API + web console, answer caching, per-request traces with token cost, Docker Compose
 - A 34-page guide and a 280+ source research log behind every default
+
+**[See plans and pricing](https://shrialok.gumroad.com/l/groundgate)** · Want launch updates and the early-bird price? **[Join the waitlist](https://theayushgupta08.github.io/groundgate-site/)**
 
 ## License
 
