@@ -1,0 +1,5 @@
+.groundgate-lite/
+__pycache__/
+*.egg-info/
+.env
+.pytest_cache/
