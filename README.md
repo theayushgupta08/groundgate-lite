@@ -81,7 +81,7 @@ print(rag.ask("How many vacation days do new hires get?"))
 - FastAPI API + web console, answer caching, per-request traces with token cost, Docker Compose
 - A 34-page guide and a 280+ source research log behind every default
 
-**[See plans and pricing](https://shrialok.gumroad.com/l/groundgate)** · Want launch updates and the early-bird price? **[Join the waitlist](https://theayushgupta08.github.io/groundgate-site/)**
+**[See plans and pricing](https://shrialok.gumroad.com/l/groundgate)**
 
 ## License
 
